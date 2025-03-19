@@ -6,6 +6,53 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		322CAA202D88909400989BF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA192D88909400989BF8 /* Preview Assets.xcassets */; };
+		322CAA212D88909400989BF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA1B2D88909400989BF8 /* Assets.xcassets */; };
+		322CAA222D88909400989BF8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA1C2D88909400989BF8 /* MainView.swift */; };
+		322CAA232D88909400989BF8 /* JDeliveryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA1E2D88909400989BF8 /* JDeliveryApp.swift */; };
+		322CAA272D88914400989BF8 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA262D88914400989BF8 /* LoginView.swift */; };
+		322CAA3E2D88C4D300989BF8 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA302D88C4D300989BF8 /* Poppins-ExtraBoldItalic.ttf */; };
+		322CAA3F2D88C4D300989BF8 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA3A2D88C4D300989BF8 /* Poppins-SemiBoldItalic.ttf */; };
+		322CAA402D88C4D300989BF8 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA2C2D88C4D300989BF8 /* Poppins-BlackItalic.ttf */; };
+		322CAA412D88C4D300989BF8 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA312D88C4D300989BF8 /* Poppins-ExtraLight.ttf */; };
+		322CAA422D88C4D300989BF8 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA322D88C4D300989BF8 /* Poppins-ExtraLightItalic.ttf */; };
+		322CAA432D88C4D300989BF8 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA3C2D88C4D300989BF8 /* Poppins-ThinItalic.ttf */; };
+		322CAA442D88C4D300989BF8 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA332D88C4D300989BF8 /* Poppins-Italic.ttf */; };
+		322CAA452D88C4D300989BF8 /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA352D88C4D300989BF8 /* Poppins-LightItalic.ttf */; };
+		322CAA462D88C4D300989BF8 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA3B2D88C4D300989BF8 /* Poppins-Thin.ttf */; };
+		322CAA472D88C4D300989BF8 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA2D2D88C4D300989BF8 /* Poppins-Bold.ttf */; };
+		322CAA492D88C4D300989BF8 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA392D88C4D300989BF8 /* Poppins-SemiBold.ttf */; };
+		322CAA4A2D88C4D300989BF8 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA2F2D88C4D300989BF8 /* Poppins-ExtraBold.ttf */; };
+		322CAA4B2D88C4D300989BF8 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA342D88C4D300989BF8 /* Poppins-Light.ttf */; };
+		322CAA4C2D88C4D300989BF8 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA372D88C4D300989BF8 /* Poppins-MediumItalic.ttf */; };
+		322CAA4D2D88C4D300989BF8 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA362D88C4D300989BF8 /* Poppins-Medium.ttf */; };
+		322CAA4E2D88C4D300989BF8 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA2B2D88C4D300989BF8 /* Poppins-Black.ttf */; };
+		322CAA4F2D88C4D300989BF8 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA2E2D88C4D300989BF8 /* Poppins-BoldItalic.ttf */; };
+		322CAA502D88C4D300989BF8 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA382D88C4D300989BF8 /* Poppins-Regular.ttf */; };
+		322CAA532D88DB3600989BF8 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA522D88DB3600989BF8 /* RegisterView.swift */; };
+		322CAA562D88E49700989BF8 /* UIMyTextfField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA552D88E49700989BF8 /* UIMyTextfField.swift */; };
+		322CAA582D88E77900989BF8 /* UIMyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA572D88E77800989BF8 /* UIMyButton.swift */; };
+		322CAA5A2D88EA6D00989BF8 /* UIMySecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA592D88EA6D00989BF8 /* UIMySecureField.swift */; };
+		322CAA5C2D88F8E100989BF8 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA5B2D88F8E100989BF8 /* WelcomeView.swift */; };
+		322CAA672D88FD8100989BF8 /* PlaywriteHU-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA602D88FD8100989BF8 /* PlaywriteHU-Regular.ttf */; };
+		322CAA682D88FD8100989BF8 /* PlaywriteHU-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA642D88FD8100989BF8 /* PlaywriteHU-VariableFont_wght.ttf */; };
+		322CAA6B2D88FD8100989BF8 /* PlaywriteHU-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA612D88FD8100989BF8 /* PlaywriteHU-Thin.ttf */; };
+		322CAA6C2D88FD8100989BF8 /* PlaywriteHU-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA5F2D88FD8100989BF8 /* PlaywriteHU-Light.ttf */; };
+		322CAA6D2D88FD8100989BF8 /* PlaywriteHU-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA5E2D88FD8100989BF8 /* PlaywriteHU-ExtraLight.ttf */; };
+		322CAA732D891B6400989BF8 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 322CAA722D891B6400989BF8 /* FirebaseAnalytics */; };
+		322CAA752D891B6400989BF8 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 322CAA742D891B6400989BF8 /* FirebaseAuth */; };
+		322CAA772D891B6400989BF8 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 322CAA762D891B6400989BF8 /* FirebaseFirestore */; };
+		322CAA792D891B8600989BF8 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA782D891B8600989BF8 /* AuthService.swift */; };
+		322CAA7B2D891C5100989BF8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 322CAA7A2D891C5100989BF8 /* GoogleService-Info.plist */; };
+		322CAA7D2D891C7000989BF8 /* AuthDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA7C2D891C7000989BF8 /* AuthDelegate.swift */; };
+		322CAA802D8921FB00989BF8 /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA7F2D8921FB00989BF8 /* Client.swift */; };
+		322CAA822D89233100989BF8 /* Delivery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA812D89233100989BF8 /* Delivery.swift */; };
+		322CAA852D89250E00989BF8 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA842D89250E00989BF8 /* Enums.swift */; };
+		322CAA872D89300600989BF8 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CAA862D89300600989BF8 /* AuthViewModel.swift */; };
+		32EF8B022D8A4E0F00C541F3 /* Structs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF8B012D8A4E0F00C541F3 /* Structs.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		32B893DC2D85E75200113AF5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,17 +71,54 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		322CAA192D88909400989BF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		322CAA1B2D88909400989BF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		322CAA1C2D88909400989BF8 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		322CAA1D2D88909400989BF8 /* JDelivery.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JDelivery.entitlements; sourceTree = "<group>"; };
+		322CAA1E2D88909400989BF8 /* JDeliveryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JDeliveryApp.swift; sourceTree = "<group>"; };
+		322CAA262D88914400989BF8 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		322CAA2B2D88C4D300989BF8 /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
+		322CAA2C2D88C4D300989BF8 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		322CAA2D2D88C4D300989BF8 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		322CAA2E2D88C4D300989BF8 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		322CAA2F2D88C4D300989BF8 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		322CAA302D88C4D300989BF8 /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		322CAA312D88C4D300989BF8 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		322CAA322D88C4D300989BF8 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		322CAA332D88C4D300989BF8 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		322CAA342D88C4D300989BF8 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		322CAA352D88C4D300989BF8 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		322CAA362D88C4D300989BF8 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		322CAA372D88C4D300989BF8 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		322CAA382D88C4D300989BF8 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		322CAA392D88C4D300989BF8 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		322CAA3A2D88C4D300989BF8 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		322CAA3B2D88C4D300989BF8 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		322CAA3C2D88C4D300989BF8 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		322CAA522D88DB3600989BF8 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		322CAA552D88E49700989BF8 /* UIMyTextfField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIMyTextfField.swift; sourceTree = "<group>"; };
+		322CAA572D88E77800989BF8 /* UIMyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIMyButton.swift; sourceTree = "<group>"; };
+		322CAA592D88EA6D00989BF8 /* UIMySecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIMySecureField.swift; sourceTree = "<group>"; };
+		322CAA5B2D88F8E100989BF8 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		322CAA5E2D88FD8100989BF8 /* PlaywriteHU-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlaywriteHU-ExtraLight.ttf"; sourceTree = "<group>"; };
+		322CAA5F2D88FD8100989BF8 /* PlaywriteHU-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlaywriteHU-Light.ttf"; sourceTree = "<group>"; };
+		322CAA602D88FD8100989BF8 /* PlaywriteHU-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlaywriteHU-Regular.ttf"; sourceTree = "<group>"; };
+		322CAA612D88FD8100989BF8 /* PlaywriteHU-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlaywriteHU-Thin.ttf"; sourceTree = "<group>"; };
+		322CAA642D88FD8100989BF8 /* PlaywriteHU-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlaywriteHU-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		322CAA782D891B8600989BF8 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		322CAA7A2D891C5100989BF8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		322CAA7C2D891C7000989BF8 /* AuthDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthDelegate.swift; sourceTree = "<group>"; };
+		322CAA7F2D8921FB00989BF8 /* Client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
+		322CAA812D89233100989BF8 /* Delivery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delivery.swift; sourceTree = "<group>"; };
+		322CAA842D89250E00989BF8 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		322CAA862D89300600989BF8 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 		32B893CA2D85E75100113AF5 /* JDelivery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JDelivery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32B893DB2D85E75200113AF5 /* JDeliveryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JDeliveryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32B893E52D85E75200113AF5 /* JDeliveryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JDeliveryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		32EF8B012D8A4E0F00C541F3 /* Structs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		32B893CC2D85E75100113AF5 /* JDelivery */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = JDelivery;
-			sourceTree = "<group>";
-		};
 		32B893DE2D85E75200113AF5 /* JDeliveryTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = JDeliveryTests;
@@ -52,6 +136,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				322CAA732D891B6400989BF8 /* FirebaseAnalytics in Frameworks */,
+				322CAA752D891B6400989BF8 /* FirebaseAuth in Frameworks */,
+				322CAA772D891B6400989BF8 /* FirebaseFirestore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,10 +159,171 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		322CAA1A2D88909400989BF8 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA192D88909400989BF8 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		322CAA1F2D88909400989BF8 /* JDelivery */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA1E2D88909400989BF8 /* JDeliveryApp.swift */,
+				322CAA832D8924FD00989BF8 /* Utils */,
+				322CAA7E2D8921E700989BF8 /* Models */,
+				322CAA6E2D8919BE00989BF8 /* Services */,
+				322CAA6F2D8919C700989BF8 /* ViewModels */,
+				322CAA282D889E7400989BF8 /* Resource */,
+				322CAA242D88912200989BF8 /* Views */,
+				322CAA1A2D88909400989BF8 /* Preview Content */,
+				322CAA1B2D88909400989BF8 /* Assets.xcassets */,
+				322CAA1D2D88909400989BF8 /* JDelivery.entitlements */,
+				322CAA7A2D891C5100989BF8 /* GoogleService-Info.plist */,
+			);
+			path = JDelivery;
+			sourceTree = "<group>";
+		};
+		322CAA242D88912200989BF8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA542D88E47E00989BF8 /* Components */,
+				322CAA252D88912A00989BF8 /* AuthViews */,
+				322CAA1C2D88909400989BF8 /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		322CAA252D88912A00989BF8 /* AuthViews */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA262D88914400989BF8 /* LoginView.swift */,
+				322CAA522D88DB3600989BF8 /* RegisterView.swift */,
+				322CAA5B2D88F8E100989BF8 /* WelcomeView.swift */,
+			);
+			path = AuthViews;
+			sourceTree = "<group>";
+		};
+		322CAA282D889E7400989BF8 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA292D88C4C300989BF8 /* Fonts */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		322CAA292D88C4C300989BF8 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA3D2D88C4D300989BF8 /* Poppins */,
+				322CAA662D88FD8100989BF8 /* Playwrite_HU */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		322CAA3D2D88C4D300989BF8 /* Poppins */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA2B2D88C4D300989BF8 /* Poppins-Black.ttf */,
+				322CAA2C2D88C4D300989BF8 /* Poppins-BlackItalic.ttf */,
+				322CAA2D2D88C4D300989BF8 /* Poppins-Bold.ttf */,
+				322CAA2E2D88C4D300989BF8 /* Poppins-BoldItalic.ttf */,
+				322CAA2F2D88C4D300989BF8 /* Poppins-ExtraBold.ttf */,
+				322CAA302D88C4D300989BF8 /* Poppins-ExtraBoldItalic.ttf */,
+				322CAA312D88C4D300989BF8 /* Poppins-ExtraLight.ttf */,
+				322CAA322D88C4D300989BF8 /* Poppins-ExtraLightItalic.ttf */,
+				322CAA332D88C4D300989BF8 /* Poppins-Italic.ttf */,
+				322CAA342D88C4D300989BF8 /* Poppins-Light.ttf */,
+				322CAA352D88C4D300989BF8 /* Poppins-LightItalic.ttf */,
+				322CAA362D88C4D300989BF8 /* Poppins-Medium.ttf */,
+				322CAA372D88C4D300989BF8 /* Poppins-MediumItalic.ttf */,
+				322CAA382D88C4D300989BF8 /* Poppins-Regular.ttf */,
+				322CAA392D88C4D300989BF8 /* Poppins-SemiBold.ttf */,
+				322CAA3A2D88C4D300989BF8 /* Poppins-SemiBoldItalic.ttf */,
+				322CAA3B2D88C4D300989BF8 /* Poppins-Thin.ttf */,
+				322CAA3C2D88C4D300989BF8 /* Poppins-ThinItalic.ttf */,
+			);
+			path = Poppins;
+			sourceTree = "<group>";
+		};
+		322CAA542D88E47E00989BF8 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA552D88E49700989BF8 /* UIMyTextfField.swift */,
+				322CAA572D88E77800989BF8 /* UIMyButton.swift */,
+				322CAA592D88EA6D00989BF8 /* UIMySecureField.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		322CAA622D88FD8100989BF8 /* static */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA5E2D88FD8100989BF8 /* PlaywriteHU-ExtraLight.ttf */,
+				322CAA5F2D88FD8100989BF8 /* PlaywriteHU-Light.ttf */,
+				322CAA602D88FD8100989BF8 /* PlaywriteHU-Regular.ttf */,
+				322CAA612D88FD8100989BF8 /* PlaywriteHU-Thin.ttf */,
+			);
+			path = static;
+			sourceTree = "<group>";
+		};
+		322CAA662D88FD8100989BF8 /* Playwrite_HU */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA622D88FD8100989BF8 /* static */,
+				322CAA642D88FD8100989BF8 /* PlaywriteHU-VariableFont_wght.ttf */,
+			);
+			path = Playwrite_HU;
+			sourceTree = "<group>";
+		};
+		322CAA6E2D8919BE00989BF8 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA702D891A3E00989BF8 /* AuthServices */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		322CAA6F2D8919C700989BF8 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA862D89300600989BF8 /* AuthViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		322CAA702D891A3E00989BF8 /* AuthServices */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA782D891B8600989BF8 /* AuthService.swift */,
+				322CAA7C2D891C7000989BF8 /* AuthDelegate.swift */,
+			);
+			path = AuthServices;
+			sourceTree = "<group>";
+		};
+		322CAA7E2D8921E700989BF8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA7F2D8921FB00989BF8 /* Client.swift */,
+				322CAA812D89233100989BF8 /* Delivery.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		322CAA832D8924FD00989BF8 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				322CAA842D89250E00989BF8 /* Enums.swift */,
+				32EF8B012D8A4E0F00C541F3 /* Structs.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		32B893C12D85E75100113AF5 = {
 			isa = PBXGroup;
 			children = (
-				32B893CC2D85E75100113AF5 /* JDelivery */,
+				322CAA1F2D88909400989BF8 /* JDelivery */,
 				32B893DE2D85E75200113AF5 /* JDeliveryTests */,
 				32B893E82D85E75200113AF5 /* JDeliveryUITests */,
 				32B893CB2D85E75100113AF5 /* Products */,
@@ -107,11 +355,11 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				32B893CC2D85E75100113AF5 /* JDelivery */,
-			);
 			name = JDelivery;
 			packageProductDependencies = (
+				322CAA722D891B6400989BF8 /* FirebaseAnalytics */,
+				322CAA742D891B6400989BF8 /* FirebaseAuth */,
+				322CAA762D891B6400989BF8 /* FirebaseFirestore */,
 			);
 			productName = JDelivery;
 			productReference = 32B893CA2D85E75100113AF5 /* JDelivery.app */;
@@ -195,6 +443,9 @@
 			);
 			mainGroup = 32B893C12D85E75100113AF5;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				322CAA712D891B6400989BF8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 32B893CB2D85E75100113AF5 /* Products */;
 			projectDirPath = "";
@@ -212,6 +463,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				322CAA202D88909400989BF8 /* Preview Assets.xcassets in Resources */,
+				322CAA212D88909400989BF8 /* Assets.xcassets in Resources */,
+				322CAA3E2D88C4D300989BF8 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				322CAA3F2D88C4D300989BF8 /* Poppins-SemiBoldItalic.ttf in Resources */,
+				322CAA402D88C4D300989BF8 /* Poppins-BlackItalic.ttf in Resources */,
+				322CAA412D88C4D300989BF8 /* Poppins-ExtraLight.ttf in Resources */,
+				322CAA422D88C4D300989BF8 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				322CAA432D88C4D300989BF8 /* Poppins-ThinItalic.ttf in Resources */,
+				322CAA442D88C4D300989BF8 /* Poppins-Italic.ttf in Resources */,
+				322CAA452D88C4D300989BF8 /* Poppins-LightItalic.ttf in Resources */,
+				322CAA462D88C4D300989BF8 /* Poppins-Thin.ttf in Resources */,
+				322CAA472D88C4D300989BF8 /* Poppins-Bold.ttf in Resources */,
+				322CAA672D88FD8100989BF8 /* PlaywriteHU-Regular.ttf in Resources */,
+				322CAA7B2D891C5100989BF8 /* GoogleService-Info.plist in Resources */,
+				322CAA682D88FD8100989BF8 /* PlaywriteHU-VariableFont_wght.ttf in Resources */,
+				322CAA6B2D88FD8100989BF8 /* PlaywriteHU-Thin.ttf in Resources */,
+				322CAA6C2D88FD8100989BF8 /* PlaywriteHU-Light.ttf in Resources */,
+				322CAA6D2D88FD8100989BF8 /* PlaywriteHU-ExtraLight.ttf in Resources */,
+				322CAA492D88C4D300989BF8 /* Poppins-SemiBold.ttf in Resources */,
+				322CAA4A2D88C4D300989BF8 /* Poppins-ExtraBold.ttf in Resources */,
+				322CAA4B2D88C4D300989BF8 /* Poppins-Light.ttf in Resources */,
+				322CAA4C2D88C4D300989BF8 /* Poppins-MediumItalic.ttf in Resources */,
+				322CAA4D2D88C4D300989BF8 /* Poppins-Medium.ttf in Resources */,
+				322CAA4E2D88C4D300989BF8 /* Poppins-Black.ttf in Resources */,
+				322CAA4F2D88C4D300989BF8 /* Poppins-BoldItalic.ttf in Resources */,
+				322CAA502D88C4D300989BF8 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +513,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				322CAA822D89233100989BF8 /* Delivery.swift in Sources */,
+				322CAA272D88914400989BF8 /* LoginView.swift in Sources */,
+				322CAA5A2D88EA6D00989BF8 /* UIMySecureField.swift in Sources */,
+				322CAA7D2D891C7000989BF8 /* AuthDelegate.swift in Sources */,
+				322CAA532D88DB3600989BF8 /* RegisterView.swift in Sources */,
+				322CAA802D8921FB00989BF8 /* Client.swift in Sources */,
+				322CAA792D891B8600989BF8 /* AuthService.swift in Sources */,
+				322CAA852D89250E00989BF8 /* Enums.swift in Sources */,
+				322CAA5C2D88F8E100989BF8 /* WelcomeView.swift in Sources */,
+				322CAA222D88909400989BF8 /* MainView.swift in Sources */,
+				322CAA872D89300600989BF8 /* AuthViewModel.swift in Sources */,
+				322CAA562D88E49700989BF8 /* UIMyTextfField.swift in Sources */,
+				32EF8B022D8A4E0F00C541F3 /* Structs.swift in Sources */,
+				322CAA232D88909400989BF8 /* JDeliveryApp.swift in Sources */,
+				322CAA582D88E77900989BF8 /* UIMyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,6 +688,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JDelivery/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -435,6 +728,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JDelivery/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -591,6 +885,35 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		322CAA712D891B6400989BF8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.10.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		322CAA722D891B6400989BF8 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 322CAA712D891B6400989BF8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		322CAA742D891B6400989BF8 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 322CAA712D891B6400989BF8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		322CAA762D891B6400989BF8 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 322CAA712D891B6400989BF8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 32B893C22D85E75100113AF5 /* Project object */;
 }
